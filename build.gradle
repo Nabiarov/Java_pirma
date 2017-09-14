@@ -1,0 +1,32 @@
+group 'viko.eif.Edvinas'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+task Veikia {
+    doLast {
+        println 'Taskas puikiausiai veikia'
+    }
+}
+
+task Pasisveikinimas {
+        println 'Sveiki!'
+}
+
+task Atsisveikinimas {
+    println 'Ate!'
+}
+
+
+
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'joda-time', name: 'joda-time', version: '2.9.9'
+}

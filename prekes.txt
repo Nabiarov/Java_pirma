@@ -1,0 +1,12 @@
+
+apelsinas 4 2 3
+apelsinas 1 2 4
+obuolys 2 4 3
+apelsinas 1 2 3
+apelsinas 1 2 3
+obuolys 1 2 3
+apelsinas 1 2 3
+apelsinas 1 2 3
+obuolys 2 5 4
+apelsinas 1 4 5
+obuolys 2 4 7

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_pirma.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_pirma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_pirma_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_pirma_main.iml" group="Java_pirma" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_pirma_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_pirma_test.iml" group="Java_pirma" />
+    </modules>
+  </component>
+</project>
